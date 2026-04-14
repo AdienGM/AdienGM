@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Adien</h1>
+<h1 align="center">Hi, I'm Adien! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGkwb3dvdGUwZXM2d21sbHM2c3FsOGhqYWRlbTNveGVybWd5bmZhYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tn3Ej47sHXpgaxn3FZ/giphy.gif" width="50"></h1>
+
+<br>
 
 <p align="center">
-  <a href="https://www.instagram.com/diengmg/">
-    <img src="https://img.shields.io/badge/Instagram-diengmg-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> &nbsp;
   <a href="https://www.linkedin.com/in/adien-gumilang/">
-    <img src="https://img.shields.io/badge/LinkedIn-Adien%20Gumilang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> &nbsp;
-  <a href="mailto:adiengmlg@gmail.com?subject=Collab%20with%20Adien">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Adien Gumilang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adien-gumilang/">
+  </a>
+  <a href="https://github.com/AdienGM">
+    <img src="https://img.shields.io/github/followers/thaiane?label=follow&style=social">
   </a>
 </p>
 

@@ -16,6 +16,52 @@
   <br>
   Building Giln while leveling up in design, web dev, and business
 </p>
+
+<br>
+
+```javascript
+  name: Adien Gumilang
+  from: Jakarta (Indonesia)
+  role: Creative Designer & Aspiring Web Developer
+
+  experiences:
+    - ["Graphic Designer", "Self-employed", "Giln", "Indonesia", "2021 - Now"]
+    - ["Graphic Designer Intern", "Internship", "Prodigihouse Post Production", "Indonesia", "Jul 2025 - Dec 2025"]
+```
+
+<h1> Portofolio </h1>
+
+<table width="1200px" cellspacing="0" cellpadding="0">
+<tr>
+<td width="600px" valign="top">
+
+**Featured Projects**
+
+<!-- recent_releases starts -->
+• [WAIT](LINK) - YYYY-DD-MM<br>• [WAIT](LINK) - YYYY-DD-MM<br>
+<!-- recent_releases ends -->
+</td>
+<td width="600px" valign="top">
+
+**Latest Work**
+
+<!-- blog starts -->
+• [WAIT](LINK) - YYYY-DD-MM<br>• [WAIT](LINK) - YYYY-DD-MM<br>
+<!-- blog ends -->
+</td>
+</tr>
+</table>
+
+<details>
+  <summary><b>&nbsp;Web&nbsp;Development&nbsp;</b></summary>
+  <br/>
+</details>
+<details>
+  <summary><b>&nbsp;JavaScript&nbsp;</b></summary>
+</details>
+<details>
+  <summary><b>&nbsp;UI&nbsp;&&nbsp;UX&nbsp;Design&nbsp;</b></summary>
+</details>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **AdienGM/AdienGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

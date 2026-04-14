@@ -1,13 +1,13 @@
 <h1 align="center"> Hi 👋, I'm Adien</h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/diengmg/">
+  <a href="https://www.instagram.com/diengmg/" style="text-decoration:none; border:none;">
     <img src="https://img.shields.io/badge/instagram-diengmg-red?style=instagram">
   </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adien-gumilang/">
+  <a href="https://www.linkedin.com/in/adien-gumilang/" style="text-decoration:none; border:none;">
     <img src="https://img.shields.io/badge/linkedin-Adien Gumilang-blue?style=linkedin">
   </a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:adiengmlg@gmail.com?subject=Collab%20with%20Adien&body=Hi%20Adien,%20I%20want%20to%20work%20with%20you"">
+  <a href="mailto:adiengmlg@gmail.com?subject=Collab%20with%20Adien&body=Hi%20Adien,%20I%20want%20to%20work%20with%20you" style="text-decoration:none; border:none;">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=Email">
   </a>
 </p>

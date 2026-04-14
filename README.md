@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
+  <b>
   Turning ideas into visuals & digital products 🎯 <br>
+  </b>
   Building Giln while leveling up in design, web dev, and business 🚀
 </p>
 

@@ -1,7 +1,12 @@
+<h1 align="center"> Hi 👋, I'm Adien</h1>
 
-## Hi there 👋
+<p align="center">
+  I'm interested in Mods & Web Development 🌱 <br>
+  Currently learning ES6 & Python 🚀
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **AdienGM/AdienGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

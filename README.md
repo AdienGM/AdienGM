@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adien! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGkwb3dvdGUwZXM2d21sbHM2c3FsOGhqYWRlbTNveGVybWd5bmZhYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tn3Ej47sHXpgaxn3FZ/giphy.gif" width="50"></h1>
+<h1 align="left">Hi, I'm Adien! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGkwb3dvdGUwZXM2d21sbHM2c3FsOGhqYWRlbTNveGVybWd5bmZhYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tn3Ej47sHXpgaxn3FZ/giphy.gif" width="50"></h1>
 
 <br>
 

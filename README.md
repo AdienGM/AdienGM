@@ -37,7 +37,7 @@
 **Featured Projects**
 
 <!-- recent_releases starts -->
-• [WAIT](LINK) - YYYY-DD-MM<br>• [WAIT](LINK) - YYYY-DD-MM<br>
+• [?](LINK) - YYYY-DD-MM<br>• [?](LINK) - YYYY-DD-MM<br>
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
@@ -45,7 +45,7 @@
 **Latest Work**
 
 <!-- blog starts -->
-• [WAIT](LINK) - YYYY-DD-MM<br>• [WAIT](LINK) - YYYY-DD-MM<br>
+• [?](LINK) - YYYY-DD-MM<br>• [?](LINK) - YYYY-DD-MM<br>
 <!-- blog ends -->
 </td>
 </tr>

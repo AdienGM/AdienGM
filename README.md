@@ -57,9 +57,11 @@
 </details>
 <details>
   <summary><b>&nbsp;JavaScript&nbsp;</b></summary>
+  <br/>
 </details>
 <details>
   <summary><b>&nbsp;UI&nbsp;&&nbsp;UX&nbsp;Design&nbsp;</b></summary>
+  <br/>
 </details>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--

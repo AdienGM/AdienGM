@@ -28,7 +28,7 @@
     - ["Graphic Designer Intern", "Internship", "Prodigihouse Post Production", "Indonesia", "Jul 2025 - Dec 2025"]
 ```
 
-<h1> Portofolio </h1>
+<h2> Projects </h2>
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>

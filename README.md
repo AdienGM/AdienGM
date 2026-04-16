@@ -63,6 +63,8 @@
   <summary><b>&nbsp;UI&nbsp;&&nbsp;UX&nbsp;Design&nbsp;</b></summary>
   <br/>
 </details>
+
+<h2 align=center>Connect with Me</h2>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **AdienGM/AdienGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

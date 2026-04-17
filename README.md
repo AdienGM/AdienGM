@@ -28,7 +28,10 @@
     - ["Graphic Designer Intern", "Internship", "Prodigihouse Post Production", "Indonesia", "Jul 2025 - Dec 2025"]
 ```
 
-<h2> Projects </h2>
+<h2> </h2>
+<p font-size: 30px;>
+  <b>Projects</b>
+</p>
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -65,6 +68,10 @@
 </details>
 
 <h2 align=center>Connect with Me</h2>
+
+<p align=center>
+  <a> YAAA </a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **AdienGM/AdienGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

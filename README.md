@@ -28,10 +28,7 @@
     - ["Graphic Designer Intern", "Internship", "Prodigihouse Post Production", "Indonesia", "Jul 2025 - Dec 2025"]
 ```
 
-<h2> </h2>
-<p font-size: 30px;>
-  <b>Projects</b>
-</p>
+<h2>Projects</h2>
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -70,7 +67,7 @@
 <h2 align=center>Connect with Me</h2>
 
 <p align=center>
-  <a> YAAA </a>
+  <a> WAIT </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--

@@ -24,7 +24,7 @@
   role: Creative Designer & Aspiring Web Developer
 
   experiences:
-    - ["Graphic Designer", "Self-employed", "Giln", "Indonesia", "2021 - Now"]
+    - ["Graphic Designer", "Self-employed", "Giln Store", "Indonesia", "2021 - Now"]
     - ["Graphic Designer Intern", "Internship", "Prodigihouse Post Production", "Indonesia", "Jul 2025 - Dec 2025"]
 ```
 
